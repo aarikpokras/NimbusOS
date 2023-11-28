@@ -12,3 +12,5 @@ syslinux
 virtualbox-guest-utils-nox
 lxdm
 lxqt
+networkmanager
+dhcpcd

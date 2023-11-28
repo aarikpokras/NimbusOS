@@ -1,0 +1,3 @@
+- [ ] Check config files for dhcp agent, iwd, networking daemon
+  - [ ] If existent, make changes consistent in systemd (create symlinks that enable services)
+  - [ ] Test with boot

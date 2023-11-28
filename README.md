@@ -16,7 +16,7 @@ To compile Nimbus, use `mkarchiso`:
 ```
 Where `nimbusos` is this downloaded repository's folder (See `mkarchiso -h`)
 
-__Warning:_ It's going to take a long time to compile. Please be patient. Don't throw your computer out the window like I did._
+**Warning:** _It's going to take a long time to compile. Please be patient. Don't throw your computer out the window like I did._
 
 ## Usage
 ### Flashing

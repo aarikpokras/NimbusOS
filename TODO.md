@@ -1,3 +1,3 @@
 - [x] Check config files for dhcp agent, iwd, networking daemon (present)
-  - [ ] If existent, make changes consistent in systemd (create symlinks that enable services)
-  - [ ] Test with boot
+  - [ ] !! Make changes consistent in systemd (create symlinks that enable services)
+  - [ ] ! Test with boot
